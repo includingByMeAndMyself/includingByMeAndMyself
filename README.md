@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ivan 👋
+
+
+Backend .NET developer with a total work experience of more than 1 year.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=includingByMeAndMyself&show_icons=true&count_private=true">
@@ -18,3 +21,9 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:includingivansmirnov@gmail.com'>includingivansmirnov@gmail.com</a>
 </p>
+
+
+## 🛠 Technical Stack
+*   c#/.NET Core/js/React/html/css 
+*   MSSQL, SQLite
+*   GitHub
