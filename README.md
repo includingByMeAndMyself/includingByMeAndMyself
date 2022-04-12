@@ -10,7 +10,7 @@ Backend .NET developer with a total work experience of more than 1 year.
    </a>
    <a href="https://github.com/includingByMeAndMyself/github-readme-stats">
       <img height=150
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=includingByMeAndMyself&layout=compact"/>
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=includingByMeAndMyself&theme=github_dark&layout=compact"/>
    </a>
 </p>
 
