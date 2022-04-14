@@ -15,7 +15,7 @@ Backend .NET developer with a total work experience of more than 1 year.
 </p>
 
 <p align='center'>
-   <a href="https://t.me/joinchat/+kQiqWriIuQQ3MGEy">
+   <a href="https://t.me/includingNETdev">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
