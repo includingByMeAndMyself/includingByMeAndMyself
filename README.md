@@ -24,6 +24,6 @@ Backend .NET developer with a total work experience of more than 1 year.
 
 
 ## 🛠 Technical Stack
-*   .NET Core/js/React/html/css 
+*   с# .NET Core
 *   MSSQL, SQLite
-*   GitHub
+*   Git
