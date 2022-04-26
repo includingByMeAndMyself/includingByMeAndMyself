@@ -19,14 +19,18 @@ Backend .NET developer with a total work experience of more than 1 year.
     </a>
 </p>
 
-## 🛠 Technical Stack 
+##
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### 🛠 Technical Stack 
 *   с# .NET Core, ASP Web API, WPF, WCF
 *   MSSQL, SQLite
 *   Unit test
 *   Git
 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 <p align='left'>
    <a href="https://t.me/including_me">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
