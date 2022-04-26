@@ -1,8 +1,8 @@
 ### Hi, I'm Ivan 👋
-
+##
 
 Backend .NET developer with a total work experience of more than 1 year.
-##
+
 <p align='center'> 
    <a href="https://github-readme-stats.vercel.app/api?username=includingByMeAndMyself&show_icons=true&count_private=true">
       <img height=150
