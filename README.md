@@ -13,14 +13,12 @@ Backend .NET developer with a total work experience of more than 1 year.
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=includingByMeAndMyself&theme=swift&layout=compact"/>
    </a>
 </p>
-
 <p align='center'>
-   <a href="https://t.me/including_me">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:includingivansmirnov@gmail.com'>includingivansmirnov@gmail.com</a>
+    <a href="https://www.codewars.com/users/includingByMeAndMyself">
+       <img src="https://www.codewars.com/users/includingByMeAndMyself/badges/small"/>
+    </a>
 </p>
+
 
 
 ## 🛠 Technical Stack
@@ -29,7 +27,9 @@ Backend .NET developer with a total work experience of more than 1 year.
 *   Git
 ##
 <p align='center'>
-    <a href="https://www.codewars.com/users/includingByMeAndMyself">
-       <img src="https://www.codewars.com/users/includingByMeAndMyself/badges/small"/>
-    </a>
+   <a href="https://t.me/including_me">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:includingivansmirnov@gmail.com'>includingivansmirnov@gmail.com</a>
 </p>
