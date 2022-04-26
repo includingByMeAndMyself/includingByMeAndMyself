@@ -19,15 +19,15 @@ Backend .NET developer with a total work experience of more than 1 year.
     </a>
 </p>
 
-
-
-## 🛠 Technical Stack
-*   с# .NET Core
+## 🛠 Technical Stack 
+*   с# .NET Core, ASP Web API, WPF, WCF
 *   MSSQL, SQLite
+*   Unit test
 *   Git
-##
-<p align='center'>📫 How to reach me: </p>
-<p align='center'>
+
+
+## 📫 How to reach me:
+<p align='left'>
    <a href="https://t.me/including_me">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
