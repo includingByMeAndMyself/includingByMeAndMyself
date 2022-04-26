@@ -28,6 +28,7 @@ Backend .NET developer with a total work experience of more than 1 year.
     </a>
 </p>
 
+
 ## 🛠 Technical Stack
 *   с# .NET Core
 *   MSSQL, SQLite
