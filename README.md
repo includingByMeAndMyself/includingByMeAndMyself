@@ -26,10 +26,8 @@ Backend .NET developer with a total work experience of more than 1 year.
 *   MSSQL, SQLite
 *   Git
 ##
+<p align='center'>📫 How to reach me: </p>
 <p align='center'>
    <a href="https://t.me/including_me">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:includingivansmirnov@gmail.com'>includingivansmirnov@gmail.com</a>
-</p>
