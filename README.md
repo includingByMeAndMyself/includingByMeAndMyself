@@ -22,6 +22,11 @@ Backend .NET developer with a total work experience of more than 1 year.
    📫 How to reach me: <a href='mailto:includingivansmirnov@gmail.com'>includingivansmirnov@gmail.com</a>
 </p>
 
+<p align='center'>
+    <a href="https://www.codewars.com/users/includingByMeAndMyself">
+       <img src="https://www.codewars.com/users/includingByMeAndMyself/badges/large"/>
+    </a>
+</p>
 
 ## 🛠 Technical Stack
 *   с# .NET Core
