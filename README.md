@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </p>
 
-<h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:</h2>
+<h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" height="35"> About Me:</h2>
 <p>.NET developer with a total work experience of more than 1 year. The main direction is web backend  development (web API). </p>
 
 <h2>🛠 Technical Stack</h2>
@@ -15,7 +15,7 @@
  <li>Git, GitLab, Elasticsearch, Postman, Docker</li>
 </ul>
  
- <h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:</h2>
+ <h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="45" height="35"> My Github Stats:</h2>
  <p align='center'> 
  <a href="https://github-readme-stats.vercel.app/api?username=includingByMeAndMyself&show_icons=true&count_private=true">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=includingByMeAndMyself&theme=swift&show_icons=true&count_private=true"/>
