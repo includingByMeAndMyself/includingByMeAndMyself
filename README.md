@@ -17,12 +17,6 @@
  
  <h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="45" height="35"> My Github Stats:</h2>
  <p align='center'> 
- <a href="https://github-readme-stats.vercel.app/api?username=includingByMeAndMyself&show_icons=true&count_private=true">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=includingByMeAndMyself&theme=swift&show_icons=true&count_private=true"/>
- </a>
- <a href="https://github.com/includingByMeAndMyself/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=includingByMeAndMyself&theme=swift&layout=compact"/>
- </a>
  <a>
   <img height = 150 src = "http://github-readme-streak-stats.herokuapp.com?user=includingByMeAndMyself&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D"/>
  </a>
