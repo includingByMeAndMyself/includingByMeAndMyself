@@ -5,7 +5,7 @@
 </p>
 
 <h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" height="35"> About Me:</h2>
-<p>.NET developer with a total work experience of more than 1 year. The main direction is web backend  development (web API). </p>
+<p>.NET developer with a total work experience of more than 2 year. The main direction is web backend  development (web API). </p>
 
 <h2>🛠 Technical Stack</h2>
 <ul align='left'>
