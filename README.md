@@ -9,8 +9,9 @@
 
 <h2>🛠 Technical Stack</h2>
 <ul align='left'>
- <li>с# .NET Core, ASP Web API, WPF, WCF</li>
+ <li>C# .NET, .NET Core, .NET Framework, JS, React, Redux, TS</li>
  <li>MSSQL, PostgreSQL, SQLite</li>
+ <li>Redis, Kafka, RabbitMQ</li>
  <li>Unit test, Integration tests</li>
  <li>Git, GitLab, Elasticsearch, Postman, Docker</li>
 </ul>
